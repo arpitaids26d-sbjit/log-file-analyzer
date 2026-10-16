@@ -2,9 +2,9 @@
         LOG FILE ANALYSIS REPORT
 ==================================================
 File analyzed      : sample_logs.txt
-Total lines read   : 22
+Total lines read   : 20
 Valid log messages : 20
-Skipped lines      : 2
+Skipped lines      : 0
 
 --- MESSAGE COUNT SUMMARY ---
 Total Errors       : 6
