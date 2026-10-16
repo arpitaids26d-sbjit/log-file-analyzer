@@ -1,0 +1,37 @@
+==================================================
+        LOG FILE ANALYSIS REPORT
+==================================================
+File analyzed      : sample_logs.txt
+Total lines read   : 22
+Valid log messages : 20
+Skipped lines      : 2
+
+--- MESSAGE COUNT SUMMARY ---
+Total Errors       : 6
+Total Warnings     : 6
+Total Info         : 8
+
+--- PERCENTAGE OF EACH TYPE ---
+ERROR : 30.0%
+WARNING : 30.0%
+INFO : 40.0%
+
+--- SEVERITY OF ISSUES ---
+ERROR messages -> Severity: HIGH (6 found)
+WARNING messages -> Severity: MEDIUM (6 found)
+INFO messages -> Severity: LOW (8 found)
+Overall system severity: HIGH - Immediate attention needed
+
+--- TOP 3 MOST COMMON ERRORS ---
+1. Database connection failed  (3 times)
+2. Unable to open configuration file  (2 times)
+3. Payment service timeout  (1 times)
+
+--- TOP 3 MOST COMMON WARNINGS ---
+1. Disk usage above 80 percent  (3 times)
+2. Memory usage is high  (2 times)
+3. Slow response from server  (1 times)
+
+==================================================
+             END OF REPORT
+==================================================
